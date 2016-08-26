@@ -4,6 +4,8 @@ Ever needed to animate multiple PNGs on the web? Nope, me neither. So here's a h
 
 The configuration is all taken care of in you HTML markup - no Javascript knowledge needed.
 
+PNGs are animated as the background of a div element. The PNG must be a horizontal sequence of equally sized frames, like so:
+
 ![example png](/img/animTest.png)
 
 
