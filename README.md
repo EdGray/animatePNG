@@ -4,6 +4,9 @@ Ever needed to animate multiple PNGs on the web? Nope, me neither. So here's a h
 
 The configuration is all taken care of in you HTML markup - no Javascript knowledge needed.
 
+![example png](/img/animTest.png)
+
+
 Place a div that you'd like your animatedPNG to live in, give it the class "animatePNG" with the following data attributes:
 
 data-src: the PNG to be animated
